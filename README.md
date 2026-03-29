@@ -1,6 +1,3 @@
-Hi 👋, I'm Jagdish Bhadane  
-🚀 Aspiring Full Stack Java Developer | MCA Student  
-💻 Passionate about building scalable web applications and improving coding skills every day
 
 # 💫 About Me:
 Hi 👋, I'm Jagdish Bhadane  <br>🚀 Aspiring Full Stack Java Developer | MCA Student  <br>💻 Passionate about building scalable web applications and improving coding skills every day
